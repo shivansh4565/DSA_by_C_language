@@ -147,7 +147,7 @@ insertpos(head,4,56);
 printf("\n");
 traverse(head);
  head = deleteHead(head);
-    
+    //done 
 printf("\n");
 traverse(head);
 
