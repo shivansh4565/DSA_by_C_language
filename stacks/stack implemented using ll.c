@@ -66,8 +66,8 @@ int main()
     push(stack, 10); 
     push(stack, 20); 
     push(stack, 30); 
-
     printf("%d popped from stack\n", pop(stack)); 
-
+peek(stack);
+printf("%d",peek(stack));
     return 0; 
 }
