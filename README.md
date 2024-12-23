@@ -105,7 +105,3 @@ The repository includes the following topics:
 ### Key Points:
 - **Introduction**: Provides an overview of the repository and what it covers.
 - **Topics Covered**: A detailed breakdown of various data structures and algorithms implemented in C.
-- **Installation**: Instructions to clone the repo and compile the code.
-- **Usage**: How to navigate the directory and run the programs.
-- **Contributing**: Encourages others to contribute and provide guidelines.
-- **License**: Specifies the open-source license for the project.
